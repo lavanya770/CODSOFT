@@ -1,4 +1,4 @@
-print("\n===== SIMPLE CALCULATOR =====")
+print("SIMPLE CALCULATOR")
 num1=int(input("Enter first number:"))
 operator=(input("Enter operation (+,-,*,/,%):"))
 num2=int(input("Enter second number:"))
@@ -16,3 +16,4 @@ else:
   result="Invalid Operator"
 print("Result:", result)
   
+
